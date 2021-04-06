@@ -1,0 +1,120 @@
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\source\repos\BD_Anisimov_Egor\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\User\Downloads\pp\пп\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\User\Downloads\pp\пп\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\User\Downloads\pp\пп\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\User\Downloads\pp\пп\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\prbd\прбд\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\Downloads\prbd\прбд\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\prbd\прбд\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\Егор\Downloads\prbd\прбд\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\Downloads\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov_2\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov_E\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Downloads\Anisimov_Egor (1)\Anisimov_Egor\Anisimov\Анисимов\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Desktop\Egor\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\Егор\Desktop\Egor\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Desktop\Egor\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\Егор\Desktop\Egor\obj\Debug\BD_Anisimov_Egor.pdb
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\bin\Debug\BD_Anisimov_Egor.exe.config
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\bin\Debug\BD_Anisimov_Egor.exe
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\bin\Debug\BD_Anisimov_Egor.pdb
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.csprojAssemblyReference.cache
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.Form1.resources
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.Form2.resources
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.Form3.resources
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.Form4.resources
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.Form5.resources
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.Properties.Resources.resources
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.csproj.GenerateResource.cache
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.exe
+C:\Users\User\Downloads\AnisimovBD (1)\Egor\obj\Debug\BD_Anisimov_Egor.pdb
